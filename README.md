@@ -5,7 +5,7 @@ An example of generating a list of exercises (e.g. for a tabata):
 `python3 circuit-generator.py -e4`
 
 An example of generating a list of exercises from one muscle group:  
-`python3 circuit-generator.py -e4 -g legs
+`python3 circuit-generator.py -e4 -g legs`
 
 An example of generating a full generic circuit:  
 `python3 circuit-generator.py -e8 -r5`
