@@ -12,7 +12,7 @@
 {"name": "burpees", "groups": ["cardio", "legs", "arms", "glutes", "quads", "abs", "chest", "shoulders", "triceps", "all"], "ratio": {"min": 1, "max": 2}, "double": false},
 {"name": "HKs", "groups": ["cardio", "legs"], "ratio": {"min": 4, "max": 6}, "double": true},
 {"name": "plank jacks", "groups": ["abs", "obliques", "shoulders", "glutes", "cardio"], "ratio": {"min": 4, "max": 6}, "double": false},
-{"name": "side lunges", "groups": ["legs", "quads", "glutes"], "ratio": {"min": 2, "max": 4}, "double": true},
+{"name": "side lunges", "groups": ["legs", "quads", "glutes"], "ratio": {"min": 2, "max": 3}, "double": true},
 {"name": "lateral plank walk", "groups": ["shoulders", "abs", "triceps", "biceps", "arms", "obliques", "lats"], "ratio": {"min": 3, "max": 5}, "double": true},
 {"name": "squat jump", "groups": ["glutes", "quads", "legs"], "ratio": {"min": 2, "max": 4}, "double": false},
 {"name": "plank ups", "groups": ["abs", "chest", "lower back"], "ratio": {"min": 3, "max": 5}, "double": false},
