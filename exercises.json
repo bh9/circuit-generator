@@ -1,5 +1,6 @@
 [
 {"name": "squats", "groups": ["quads", "glutes", "legs"], "hold": false, "ratio": {"min": 4, "max": 8}, "double": false},
+{"name": "sumo squats", "groups": ["quads", "glutes", "legs"], "hold": false, "ratio": {"min": 4, "max": 8}, "double": false},
 {"name": "ski/wall sit", "groups": ["quads", "glutes", "legs"], "hold": true, "ratio": {"min": 8, "max": 16}, "double": false},
 {"name": "lunges", "groups": ["quads", "glutes", "legs"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": true},
 {"name": "lateral leg raises", "groups": ["glutes", "thigh", "legs"], "hold": false, "ratio": {"min": 1, "max": 2}, "double": true}, 
@@ -12,12 +13,12 @@
 {"name": "standing oblique crunches", "groups": ["obliques", "abs"], "hold": false, "ratio": {"min": 4, "max": 6}, "double": true},
 {"name": "wide grip pushups", "groups": ["chest", "triceps", "shoulders", "arms"], "hold": false, "ratio": {"min": 2, "max": 3}, "double": false},
 {"name": "burpees", "groups": ["cardio", "legs", "arms", "glutes", "quads", "abs", "chest", "shoulders", "triceps", "all"], "hold": false, "ratio": {"min": 1, "max": 2}, "double": false},
-{"name": "HKs", "groups": ["cardio", "legs"], "hold": false, "ratio": {"min": 4, "max": 6}, "double": true},
+{"name": "HKs", "groups": ["cardio", "legs"], "hold": false, "ratio": {"min": 3, "max": 6}, "double": true},
 {"name": "plank jacks", "groups": ["abs", "obliques", "shoulders", "glutes", "cardio"], "hold": false, "ratio": {"min": 4, "max": 6}, "double": false},
 {"name": "side lunges", "groups": ["legs", "quads", "glutes"], "hold": false, "ratio": {"min": 2, "max": 3}, "double": true},
-{"name": "lateral plank walk", "groups": ["shoulders", "abs", "triceps", "biceps", "arms", "obliques", "lats"], "hold": false, "ratio": {"min": 3, "max": 5}, "double": true},
+{"name": "lateral plank walk", "groups": ["shoulders", "abs", "triceps", "biceps", "arms", "obliques", "lats"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": true},
 {"name": "squat jump", "groups": ["glutes", "quads", "legs"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": false},
-{"name": "plank ups", "groups": ["abs", "chest", "lower back", "shoulders"], "hold": false, "ratio": {"min": 3, "max": 5}, "double": false},
+{"name": "plank ups", "groups": ["abs", "chest", "lower back", "shoulders"], "hold": false, "ratio": {"min": 1, "max": 3}, "double": true},
 {"name": "plank", "groups": ["abs", "chest", "lower back", "shoulders"], "hold": true, "ratio": {"min": 8, "max": 16}, "double": false},
 {"name": "rotating MCs", "groups": ["abs", "obliques", "shoulders"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": true},
 {"name": "bicycle crunches", "groups": ["abs", "obliques"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": true},
@@ -34,5 +35,7 @@
 {"name": "russian twist", "groups": ["abs", "obliques"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": true},
 {"name": "tricep dips", "groups": ["triceps", "arms"], "hold": false, "ratio": {"min": 4, "max": 6}, "double": false},
 {"name": "explosive star jumps", "groups": ["cardio", "legs"], "hold": false, "ratio": {"min": 1, "max": 2}, "double": false},
-{"name": "jumping jacks", "groups": ["cardio", "legs"], "hold": false, "ratio": {"min": 6, "max": 12}, "double": false}
+{"name": "jumping jacks", "groups": ["cardio", "legs"], "hold": false, "ratio": {"min": 6, "max": 12}, "double": false},
+{"name": "hip abductions", "groups": ["legs"], "hold": false, "ratio": {"min": 1, "max": 3}, "double": true},
+{"name": "back extensions", "groups": ["back"], "hold": false, "ratio": {"min": 2, "max": 4}, "double": false}
 ]
